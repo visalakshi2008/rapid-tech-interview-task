@@ -1,4 +1,4 @@
-import { Table, Tag, Typography, Col, Row } from "antd";
+import { Table, Tag, Typography } from "antd";
 import React from "react";
 
 const EmployeesData = () => {
