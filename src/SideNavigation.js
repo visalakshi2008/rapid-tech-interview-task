@@ -4,7 +4,6 @@ import {
   CheckSquareOutlined,
   FileDoneOutlined,
   LaptopOutlined,
-  LoginOutlined,
   LogoutOutlined,
   MenuOutlined,
   UserAddOutlined,
