@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <Layout width="100%" style={{ height: "100vh" }}>
-      <Sider width="12%" style={{ backgroundColor: "#f5f5f5" }}>
+      <Sider width="12%" style={{ backgroundColor: "white" }}>
         <SideNavigation />
       </Sider>
       <Layout>
