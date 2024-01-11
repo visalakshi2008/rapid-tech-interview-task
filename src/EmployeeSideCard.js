@@ -1,7 +1,6 @@
 import { SearchOutlined } from "@ant-design/icons";
 import { Avatar, Col, Flex, Input, Row, Typography } from "antd";
 import React, { useState } from "react";
-import EmployeesData from "./EmployeesData";
 import WebComponentEmployeeData from "./EmployeesData";
 
 const EmployeeSideCard = () => {
