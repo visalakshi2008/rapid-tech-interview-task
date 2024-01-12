@@ -157,7 +157,7 @@ const EmployeesData = () => {
     },
   ];
   const paginationConfig = {
-    pageSize: 4,
+    pageSize: 5,
     showSizeChanger: false,
     showQuickJumper: false,
     showTotal: (total) => `Rows per page: 5 `,
