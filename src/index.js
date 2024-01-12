@@ -30,7 +30,7 @@ const App = () => {
         <Sider
           width="14%"
           style={{
-            backgroundColor: isMobile ? "none" : "white",
+            backgroundColor: isMobile ? "#f5f5f5" : "white",
           }}
         >
           <SideNavigation />
